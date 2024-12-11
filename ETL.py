@@ -20,7 +20,7 @@ from typing import List, Tuple
 from sqlalchemy import text
 
 # Configuración de la API para autenticar las solicitudes de YouTube
-API_KEY = 'AIzaSyCdrebworNo2iTcXg3WYAwwFKRzsqDgPok'
+API_KEY = 'Tu_API_KEY'
 
 # ID del canal de Meganoticias en Vivo, desde donde se extraerán los datos
 CHANNEL_ID = 'UCkccyEbqhhM3uKOI6Shm-4Q'

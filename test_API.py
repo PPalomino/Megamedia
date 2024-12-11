@@ -8,7 +8,7 @@ Created on Tue Dec 10 20:30:58 2024
 import requests
 
 # Configuración de la API para autenticar las solicitudes de YouTube
-API_KEY = 'AIzaSyCdrebworNo2iTcXg3WYAwwFKRzsqDgPok'
+API_KEY = 'Tu_API_KEY'
 
 # ID del canal de Meganoticias en Vivo, desde donde se extraerán los datos
 CHANNEL_ID = 'UCkccyEbqhhM3uKOI6Shm-4Q'
